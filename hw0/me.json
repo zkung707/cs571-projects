@@ -1,0 +1,13 @@
+{
+"name": {
+    "first": "Zoe",
+    "last" : "Kung"
+},
+"fromWisconsin" : true,
+"numCredits" : 14,
+"major" : "Computer Science",
+"interests" : [
+    "Drawing",
+    "Reading"
+    ]
+}
